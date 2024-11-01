@@ -1,4 +1,3 @@
-; Function that tokenizes a string of OCanada code.
 (defun split-string (foo)
   (let ((i 0) (s "") (l (list 1)))
     (loop
