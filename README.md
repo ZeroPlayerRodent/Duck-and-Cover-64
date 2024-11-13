@@ -14,11 +14,13 @@ Assemble the assembly code with [dasm](https://dasm-assembler.github.io/).
 
 ## How to Play
 
-First, load the game from disk and type `SYS 32768` to begin.
+First, load the game from disk or tape and type `SYS 32768` to begin.
 
 Player 1 uses controller port 1 and player 2 uses controller port 2.
 
 ### MENU CONTROLS
+
+To start/restart the game, hold FIRE on joystick 1 for two seconds.
 
 To change modes, tap UP on joystick 1.
 To find a specific mode, refer to the [game mode matrix](https://github.com/ZeroPlayerRodent/Duck-and-Cover-2600/blob/main/Game_Matrix.png).
